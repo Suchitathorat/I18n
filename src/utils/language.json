@@ -1,0 +1,21 @@
+{
+    "en":{
+        "welcomeMessage":"Welcome !",
+        "normalMessage":"Here We are learning how to implement I18n",
+        "greetingMessage":"Hope you have fun learning it",
+        "usersStatMessage":"<studentCount> students are leraning in this session"
+
+    },
+    "mr":{
+        "welcomeMessage":"स्वागत आहे !",
+        "normalMessage":"येथे आपण I18n कसे अंमलात आणायचे ते शिकत आहोत",
+        "greetingMessage":"आशा आहे की तुम्हाला ते शिकण्यात मजा आली असेल",
+        "usersStatMessage":"<studentCount> विद्यार्थी या session शिकत आहेत"
+    },
+    "hn":{
+        "welcomeMessage":"स्वागत है !",
+        "normalMessage":"यहां हम सीख रहे हैं कि I18n को कैसे लागू किया जाए|",
+        "greetingMessage":"आशा है आपको इसे सीखने में मज़ा आया होगा",
+        "usersStatMessage":"<studentCount> छात्र इस session में सीख रहे हैं  "
+    }
+}
